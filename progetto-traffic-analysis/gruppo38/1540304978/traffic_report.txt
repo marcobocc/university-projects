@@ -1,0 +1,24 @@
+command line: /home/marco/TIE/bin -a ndping_1.0 -r /home/marco/networks/gruppo38/1540304978/traffic.pcap 
+
+Time interval of observation: 442 seconds (approx. 7 min or 0 h)
+First examined packet had timestamp:	Tue Oct 23 14:29:51 2018
+Last examined packet had timestamp:	Tue Oct 23 14:37:13 2018
+Packet processing started at:		Sun Nov 25 13:52:19 2018
+Packet processing finished at:		Sun Nov 25 13:52:19 2018
+
+packets read:				26125
+mean throughput:			59 pkts/sec
+
+packets discarded:			0
+
+
+Classification statistics:
+plug-in	| hit	| miss
+---------------------------
+ndping	| 132	| 0
+---------------------------
+Total	| 0	| 0
+
+
+Valid sessions found:	135	(Total: 140, Skipped: 5)
+Skipped packets:	0

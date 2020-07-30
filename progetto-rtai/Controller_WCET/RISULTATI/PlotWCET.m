@@ -1,0 +1,16 @@
+clear;close all;clc;
+Temp_acquire=Acquire.VarName8;
+xmax=max(Temp_acquire);
+figure;histogram(Temp_acquire,xmax);
+Temp_Attuatore=Attuatore.VarName7;
+xmax=max(Temp_Attuatore);
+figure;histogram(Temp_Attuatore,xmax);
+Temp_controller=Controller.VarName7;
+xmax=max(Temp_controller);
+figure;histogram(Temp_controller,xmax);
+Temp_DIAG=DIAG.VarName5;
+xmax=max(Temp_DIAG);
+figure;histogram(Temp_DIAG,xmax);
+Temp_Filter=Filter.VarName8;
+xmax=max(Temp_Filter);
+figure;histogram(Temp_Filter,xmax);

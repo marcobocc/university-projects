@@ -1,0 +1,109 @@
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	18413	53			1	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	18413			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	22121	53			3	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	22121			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	9767	53			5	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	9767			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	31916	53			7	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	31916			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	2800	53			8	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	2800			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	29998	53			13	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	29998			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	23611	53			16	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	23611			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.4.4	17	30812	53			18	DNS	UNKNOWN_PROCESS	google-public-dns-b.google.com.;	Level 3 Parent, LLC
+	8.8.4.4	192.168.20.105	17	53	30812			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	14659	53			22	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	14659			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	11700	53			24	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	11700			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	29300	53			29	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	29300			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	21306	53			33	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	21306			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	12350	53			34	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	12350			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	17431	53			39	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	17431			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.4.4	17	20459	53			40	DNS	UNKNOWN_PROCESS	google-public-dns-b.google.com.;	Level 3 Parent, LLC
+	8.8.4.4	192.168.20.105	17	53	20459			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	17431	53			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	17431			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	14319	53			45	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	14319			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	53062	53			47	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	53062			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	51531	53			48	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	51531			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	85.199.214.99	17	36882	123			49	NTP	UNKNOWN_PROCESS	2.android.pool.ntp.org	Colocker Ltd
+	192.168.20.105	8.8.8.8	17	52717	53			50	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	52717			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	85.199.214.99	17	33138	123			56	NTP	UNKNOWN_PROCESS	2.android.pool.ntp.org	Colocker Ltd
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	58865	53			57	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	58865			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+	192.168.20.105	8.8.8.8	17	64870	53			58	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	64870			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+	192.168.20.105	8.8.8.8	17	48505	53			59	DNS	UNKNOWN_PROCESS	google-public-dns-a.google.com.;	Level 3 Parent, LLC
+	8.8.8.8	192.168.20.105	17	53	48505			NO_TIE_ID	UNKNOWN	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+								NO_TIE_ID	UNKNOWN	com.instagram.android	UNKNOWN_HOSTNAME	UNKNOWN_ORGNAME
+0	192.168.20.105	31.13.86.52	6	59121	443	i.instagram.com;		2	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+1	192.168.20.105	31.13.86.34	6	44846	443	mqtt-mini.facebook.com;		4	Facebook	com.instagram.android:mqtt	edge-mqtt-mini-shv-01-mxp1.facebook.com.;	Facebook
+2	31.13.75.8	192.168.20.105	6	443	53540			6	Other TCP	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+3	192.168.20.105	31.13.86.52	6	59123	443	scontent-mxp1-1.cdninstagram.com;		9	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+4	192.168.20.105	31.13.86.52	6	59124	443	scontent-mxp1-1.cdninstagram.com;		10	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+5	192.168.20.105	31.13.86.52	6	59125	443	scontent-mxp1-1.cdninstagram.com;		11	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+6	192.168.20.105	31.13.86.52	6	59126	443	scontent-mxp1-1.cdninstagram.com;		12	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+7	192.168.20.105	31.13.86.52	6	59127	443	graph.instagram.com;		14	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+8	192.168.20.105	157.240.21.16	6	53066	443	graph.facebook.com;		15	Other TCP	com.instagram.android	edge-star-shv-01-cdt1.facebook.com.;	Facebook, Inc.
+9	192.168.20.105	31.13.86.2	6	56180	443	edge-mqtt.facebook.com;		17	Facebook	com.instagram.android	edge-mqtt-shv-01-mxp1.facebook.com.;	Facebook
+10	192.168.20.105	216.58.205.46	6	35166	443	android.clients.google.com;		19	Google	UNKNOWN_PROCESS	mil04s24-in-f46.1e100.net.;mil04s24-in-f14.1e100.net.;	Google LLC
+11	216.58.205.138	192.168.20.105	6	443	54551			20	Other TCP	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+12	172.217.23.110	192.168.20.105	6	443	49225			21	Other TCP	UNKNOWN_PROCESS	PRIVATE_ADDR	PRIVATE_ADDR
+13	192.168.20.105	31.13.86.52	6	59128	443	i.instagram.com;		23	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+14	192.168.20.105	31.13.86.52	6	59129	443	scontent-mxp1-1.cdninstagram.com;		25	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+15	192.168.20.105	31.13.86.52	6	59130	443	scontent-mxp1-1.cdninstagram.com;		26	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+16	192.168.20.105	31.13.86.52	6	59131	443	scontent-mxp1-1.cdninstagram.com;		27	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+17	192.168.20.105	31.13.86.52	6	59132	443	scontent-mxp1-1.cdninstagram.com;		28	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+18	192.168.20.105	31.13.86.52	6	59133	443	graph.instagram.com;		30	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+19	192.168.20.105	52.222.149.218	6	50989	443			31	Other TCP	UNKNOWN_PROCESS	server-52-222-149-218.fra53.r.cloudfront.net.;	Amazon.com, Inc.
+20	192.168.20.105	54.227.180.34	6	55532	443			32	Other TCP	UNKNOWN_PROCESS	ec2-54-227-180-34.compute-1.amazonaws.com.;	Amazon Technologies Inc.
+21	192.168.20.105	31.13.83.52	6	33050	443	scontent-mad1-1.cdninstagram.com;		35	SSL_with_certificate	com.instagram.android	instagram-p3-shv-01-mad1.fbcdn.net.;	Facebook
+22	192.168.20.105	31.13.83.52	6	33051	443	scontent-mad1-1.cdninstagram.com;		36	SSL_with_certificate	com.instagram.android	instagram-p3-shv-01-mad1.fbcdn.net.;	Facebook
+23	192.168.20.105	31.13.83.52	6	33052	443	scontent-mad1-1.cdninstagram.com;		37	SSL_with_certificate	com.instagram.android	instagram-p3-shv-01-mad1.fbcdn.net.;	Facebook
+24	192.168.20.105	31.13.83.52	6	33053	443	scontent-mad1-1.cdninstagram.com;		38	SSL_with_certificate	com.instagram.android	instagram-p3-shv-01-mad1.fbcdn.net.;	Facebook
+25	192.168.20.105	31.13.86.4	6	43173	443	cdn.fbsbx.com;		41	SSL_with_certificate	com.instagram.android	xx-fbcdn-shv-01-mxp1.fbcdn.net.;	Facebook
+26	192.168.20.105	31.13.86.4	6	43174	443	cdn.fbsbx.com;		42	SSL_with_certificate	com.instagram.android	xx-fbcdn-shv-01-mxp1.fbcdn.net.;	Facebook
+27	192.168.20.105	31.13.86.4	6	43175	443	cdn.fbsbx.com;		43	SSL_with_certificate	com.instagram.android	xx-fbcdn-shv-01-mxp1.fbcdn.net.;	Facebook
+28	192.168.20.105	31.13.86.4	6	43176	443	cdn.fbsbx.com;		44	SSL_with_certificate	com.instagram.android	xx-fbcdn-shv-01-mxp1.fbcdn.net.;	Facebook
+29	192.168.20.105	31.13.86.52	6	59142	443	graph.instagram.com;		46	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+30	192.168.20.105	31.13.86.52	6	59143	443	scontent-mxp1-1.cdninstagram.com;		51	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+31	192.168.20.105	31.13.86.52	6	59144	443	scontent-mxp1-1.cdninstagram.com;		52	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+32	192.168.20.105	31.13.86.52	6	59145	443	scontent-mxp1-1.cdninstagram.com;		54	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+33	192.168.20.105	31.13.86.52	6	59146	443	scontent-mxp1-1.cdninstagram.com;		55	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
+34	192.168.20.105	31.13.86.52	6	59147	443	scontent-mxp1-1.cdninstagram.com;		60	Other TCP	com.instagram.android	scontent-mxp1-1.cdninstagram.com	Facebook
